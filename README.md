@@ -1,4 +1,25 @@
-# 🚦 Traffic Vehicle Detection and Analysis Using YOLOv8
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/75c2cd4c-d32b-475c-a849-80b56fe7d498" />
+
+<!-- Python -->
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- YOLOv8 (no official logo on Shields, so custom text badge) -->
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-purple?style=for-the-badge)
+
+<!-- OpenCV -->
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange?style=for-the-badge&logo=opencv&logoColor=white)
+
+<!-- Pandas -->
+![Pandas](https://img.shields.io/badge/Pandas-data%20analysis-blue?style=for-the-badge&logo=pandas&logoColor=white)
+
+<!-- Matplotlib -->
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-black?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+<!-- Seaborn -->
+![Seaborn](https://img.shields.io/badge/Seaborn-visualization-blue?style=for-the-badge&logo=seaborn&logoColor=white)
+
+<!-- Computer Vision (custom badge text) -->
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV%20Project-brightgreen?style=for-the-badge)
 
 ## 📌 Project Overview
 
