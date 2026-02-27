@@ -149,4 +149,5 @@ This project demonstrates a complete **computer vision pipeline for automated tr
 ## 👤 Author
 
 Kenneth Nyangweso
+
 Computer Vision | Data Analytics | Machine Learning
